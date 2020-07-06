@@ -22,13 +22,15 @@ TEC也是唐山工学院英文——“Tangshan Engineering College”的简称�
 
 <table>
   <tr>
-    <th>ID</th><th>Name</th><th>Rank</th>
+    <th>ID</th><th>日期</th><th>内容</th><th>地点</th>
   </tr>
   <tr>
-    <td>1</td><td>Tom Preston-Werner</td><td>Awesome</td>
+    <td>1</td><td>2020.7.1 19:30～21:30</td><td>郝莉，教学改革实践到教学研究论文-如何将教学理论与教学实践进行融合<br/>
+    李君，首要教学原理介绍</td><td>腾讯会议</td>
   </tr>
   <tr>
-    <td>2</td><td>Albert Einstein</td><td>Nearly as awesome</td>
+    <td>2</td><td>2020.7.8 19:30～21:30</td><td>邸志雄，Moocs教学<br/>
+    张方，～</td><td>腾讯会议</td>
   </tr>
 </table>
 
