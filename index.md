@@ -31,7 +31,7 @@ TEC也是唐山工学院英文——“Tangshan Engineering College”的简称�
   </tr>
   <tr>
     <td>2</td><td>2020.7.8 19:30～21:30</td><td>邸志雄，Moocs教学<br/>
-    张方，～</td><td>腾讯会议</td><td></td>
+    张方，～</td><td>腾讯会议</td>
   </tr>
 </table>
 
