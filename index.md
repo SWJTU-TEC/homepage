@@ -25,7 +25,7 @@ TEC也是唐山工学院英文——“Tangshan Engineering College”的简称�
   </tr>
   <tr>
     <td>1</td><td>2020.7.1 19:30～21:30</td><td>郝莉，教学改革实践到教学研究论文-如何将教学理论与教学实践进行融合<br/>
-    李君，首要教学原理介绍</td><td>腾讯会议</td><td>[文章合为时而著，歌诗合为事而作 开展教学研究，构思教改论文](https://mp.weixin.qq.com/s/_P4AKaiQYGkClK3HZJXEOw)</td>
+    李君，首要教学原理介绍</td><td>腾讯会议</td><td>https://mp.weixin.qq.com/s/_P4AKaiQYGkClK3HZJXEOw</td>
   </tr>
   <tr>
     <td>2</td><td>2020.7.8 19:30～21:30</td><td>邸志雄，Moocs教学<br/>
