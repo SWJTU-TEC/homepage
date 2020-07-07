@@ -30,8 +30,10 @@ TEC也是唐山工学院英文——“Tangshan Engineering College”的简称�
     </td><td>腾讯会议</td>
   </tr>
   <tr>
-    <td>2</td><td>2020.7.8 19:30～21:30</td><td>邸志雄，Moocs教学<br/>
-    张方，～</td><td>腾讯会议</td>
+    <td>2</td><td>2020年7月9日下午16:00-17:40</td><td>
+    张方，工科“硬课”中的混合式PBL教学——引导学生深度学习的系统思考<br/>
+    邸志雄，《集成电路设计》线上线下混合式教学“常态化”方式——基于产教研融合的探索<br/>
+    https://github.com/SWJTU-TEC/homepage/issues/1#issue-652092019</td><td>腾讯会议ID：917 874 706</td>
   </tr>
 </table>
 
