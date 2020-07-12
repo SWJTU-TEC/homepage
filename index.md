@@ -4,8 +4,8 @@ TEC 新教学
 
 “TEC新教学”的内涵
 -------------------------
-1．T代表思想（Thinking），E代表精神（Education Essence），C代表文化（Culture），象征着新时代教育教学改革的创新与可持续发展内涵； 
-2． T代表唐山（Tangshan）、E代表峨眉（Emei）、C代表成都（Chengdu）；同时，TEC也是西南交通大学前身唐山工学院（Tangshan Engineering College）的英文简写。“TEC新教学”象征着西南交通大学百余年传承的“竢实扬华、自强不息”的交大精神。
+1. T代表思想（Thinking），E代表精神（Education Essence），C代表文化（Culture），象征着新时代教育教学改革的创新与可持续发展内涵； 
+2. T代表唐山（Tangshan）、E代表峨眉（Emei）、C代表成都（Chengdu）；同时，TEC也是西南交通大学前身唐山工学院（Tangshan Engineering College）的英文简写。“TEC新教学”象征着西南交通大学百余年传承的“竢实扬华、自强不息”的交大精神。
 
 “TEC新教学”社群平台
 -------------------------
